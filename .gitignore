@@ -1,0 +1,6 @@
+# idea ignore 忽略idea的一些文件
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
